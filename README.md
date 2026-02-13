@@ -16,4 +16,8 @@ To run this code on your local machine:
 
 1. **Clone the repository:**
    ```bash
+<<<<<<< HEAD
    git clone [https://github.com/JayrajsinhB/Learning26.git](https://github.com/JayrajsinhB/Learning26.git)
+=======
+   git clone [https://github.com/JayrajsinhB/Learning26.git](https://github.com/JayrajsinhB/Learning26.git)
+>>>>>>> de4720d919b857bd1733bf68afc769eca25b8fab
